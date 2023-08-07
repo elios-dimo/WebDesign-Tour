@@ -154,6 +154,7 @@ p {
   background-repeat: no-repeat;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 
 .explore-content {
